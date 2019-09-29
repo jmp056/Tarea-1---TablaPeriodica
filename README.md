@@ -1,1 +1,1 @@
-# Tarea-1---TablaPeriodica
+# Tarea-1 - TablaPeriodica
