@@ -1,1 +1,2 @@
 # Tarea-1 - TablaPeriodica
+Este es un proyecto realizado para la prueba del progreso que he tenido en cuanto a un diplomado de conocimientos basicos de la tecnologia HTML, este consta de realizar una tabla periodica de los elementos
